@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>583963047975-uv97kmr52i1oqsipj36lhcegs4a7pvfb.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.583963047975-uv97kmr52i1oqsipj36lhcegs4a7pvfb</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCrX2y-L8kTMWcIMAZEMl3Cu3I9khUpXJo</string>
+	<key>GCM_SENDER_ID</key>
+	<string>583963047975</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.MadneZ.MadRouletteAdmin</string>
+	<key>PROJECT_ID</key>
+	<string>madroulette-99aae</string>
+	<key>STORAGE_BUCKET</key>
+	<string>madroulette-99aae.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:583963047975:ios:26ee1601736e7bc89af602</string>
+	<key>DATABASE_URL</key>
+	<string>https://madroulette-99aae.firebaseio.com</string>
+</dict>
+</plist>
